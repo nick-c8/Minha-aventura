@@ -1,0 +1,40 @@
+body {
+    background-color: #191e3b;
+    color: #c6ccee;
+
+    font-family: "Ubuntu", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: rgb(56, 51, 112);
+    color: #c6ccee;
+
+    font-family: "Ubuntu", sans-serif;
+
+}
+
+.passo {
+    display: none;
+
+}
+
+.passo.ativo {
+    display: block;
+
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+
+}
+
+img {
+    max-width: 80%;
+
+}
